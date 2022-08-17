@@ -10,3 +10,27 @@ body {
 #coloring {
     background-color: burlywood;
 }
+
+.animate__animated.animate__bounce {
+    --animate-duration: 5s;
+  }
+
+.col {
+    border: 3px solid black;
+    background-color: rgb(221, 255, 0);
+}
+
+.col-md-auto {
+    border: 3px solid black;
+    background-color: rgb(221, 255, 0);
+}
+
+.col-6 {
+    border: 3px solid black;
+    background-color: rgb(221, 255, 0);
+}
+  
+.col-5 {
+    border: 3px solid black;
+    background-color: rgb(221, 255, 0);
+}

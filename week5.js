@@ -65,3 +65,12 @@
         document.getElementById("cost").innerHTML = 
         "<p><b>cost for 12 pounds per person:</b> " + peop*12 + "</p>";
       }
+
+      // document.documentElement.style.setProperty('--animate-duration', '5s');
+
+      // Task:
+      // Outer Div class of container
+      // Middle Div class of row
+      // 3 Inner Div's class of col 
+      
+      // then apply different column sizes to each e.g. col-5
